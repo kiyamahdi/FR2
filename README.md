@@ -1,5 +1,5 @@
 # FR2
-face recognition
+face recognition,
 This program has a database to store user information.
 To receive information from the user, a form for receiving information has been created using a graphical user interface.
 The user environment is designed using the open_cv module and has created a virtual or spatial mode of using the keys.
